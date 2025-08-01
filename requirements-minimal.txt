@@ -1,0 +1,16 @@
+streamlit
+langchain
+langchain-openai
+openai
+beautifulsoup4
+requests
+pandas
+numpy
+python-dotenv
+PyPDF2
+python-docx
+scikit-learn
+plotly
+selenium
+webdriver-manager
+pydantic
